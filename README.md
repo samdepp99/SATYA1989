@@ -5,6 +5,10 @@ Config files for my GitHub profile.
 ![image](https://github.com/user-attachments/assets/48794e06-17b1-4d1a-bfd5-33d3459218d2)
 ![image](https://github.com/user-attachments/assets/64b7af09-b67f-4299-8999-2ec7d7b40401)
 
+💬 **Let’s Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/sandeepsatyavolufusiontech/)  
+- [Portfolio Website](https://sandeepsatyavolu.wixsite.com/fusiongoeasy)  
+- Open to collaborations, speaking engagements, and consulting/Training opportunities!  
 
 # 👋 Hi, I'm Sandeep Satyavolu  
 
@@ -96,7 +100,4 @@ With over **11 years of experience**, I specialize in implementing and integrati
 An avid reader, blogger, and trainer, I enjoy sharing insights on Oracle Fusion and Salesforce ecosystems. I’m passionate about simplifying complexities and driving innovation in enterprise architecture.
 
 
-💬 **Let’s Connect:**  
-- [LinkedIn](https://www.linkedin.com/in/sandeepsatyavolufusiontech/)  
-- [Portfolio Website](https://sandeepsatyavolu.wixsite.com/fusiongoeasy)  
-- Open to collaborations, speaking engagements, and consulting opportunities!  
+
