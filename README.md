@@ -59,21 +59,29 @@ With over **11 years of experience**, I specialize in implementing and integrati
        - Designed Integrations between PRM and Learning Portals
        - Designed Integrations between Salesforce CRM/CPQ and oracle OM
 3. **Salesforce Platform Enrichment** 
-   - Managed the Project to Migrate/retrofit Existing workflows and Processbuilders to Flows Across CRM/PRM/CPQ Modules
-   - Mangaged the project where All Error Tests Classes are Fixed and Increased the test Coversge to 80% to Adher to the Coding Standards
+   - Managing the Project to Migrate/retrofit Existing workflows and Processbuilders to Flows Across CRM/PRM/CPQ Modules
+   - Mangaging the project where All Error Tests Classes are Fixed and Increased the test Coversge to 80% to Adher to the Coding Standards
+   - Worked as a QA Lead for CPQ Core Application for a Short Period of Time
   
 4. **Salesforce Security & Compliance**  
    - Managed and Played a Delivery lead Role to Ensure the Security and Compliance requirements are Delived On Time Which Include
    -   1. Salesforce Event Logs Data Extraction using Azure ADF * Azure SQL to be Consumed by the Azure Sentinel- SIEM Solution
        2. Salesforce PII/PIL Data Masking for Multiple Objects to Adhere the Compliance and GDPR requirements
-       3. Driven the TPSA and DPA Discussion with the Third Party Data Masking Vendor
+       3. Driven the TPSA-Third Party Security Assesment and DPA- Data Privacy Agreement Discussion with the Third Party Data Masking Vendor
 
 5. **AI Invoice Processing**  
    - Integrated Oracle AP with a custom AI-driven invoice processing solution to optimize accounts payable workflows.  
 
 6. **ERP Cloud Integrations**  
-   - Developed multi-cloud extraction strategies from Oracle ERP Cloud to Azure for financial data warehouses at ValueLabs.
-
+   - Developed multi-cloud extraction strategies from Oracle ERP Cloud By leveraging BICC and BIP to Azure for financial data warehouses at ValueLabs.
+     
+7. **Oracle ERP Cloud Upgrade from EBS 12.2.3**
+    - Worked on Data Conversion for Fixed Assets , Customers , Suppliers , Open PO's Etc ..
+    - Implemented Integrations between Service Now to get the Capital Assets to FA Module
+    - Implemented a Common Error Framework to be Invoked in All OIC Integrations and Create a Service Now Ticket in caseof Failures
+    - Implemented KPI Dashboard using VBCS to Show the Integration Run KPI's For Each Module
+    - Defined and Implemented Data Extraction Startegies from oracle ERP Cloud to meet Datawarehous and Analytics Requirements
+      
 ## 🏢 Companies I've Worked With:  
 - **Nokia Solutions and Networks Pvt Ltd**: **IT Technical Architect & PM** - Oracle ERP Cloud and Salesforce CRM/CPQ/PRM  & Integrations
 - **ValueLabs LLP**: **Associate Architect & Project Manager** -
