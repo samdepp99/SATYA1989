@@ -42,25 +42,36 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - 	Oracle Application Integration CloudPlatform 2019 Solution Engineer Specialist
 -   Oracle Business Intelligence Cloud Service Specialist
 - 	Oracle Cloud Infrastructure Foundations2020 Associate
-- 	Oracle Cloud Infrastructure 2019CertifiedArchitectAssociate
+- 	Oracle Cloud Infrastructure 2019 Certified Architect Associate
 -   Oracle Autonomous Database Cloud 2019 Specialist
 -   Product Management Expert Development Program
 ---
 
 ## 🚀 Key Projects:  
-1. **Salesforce Enrichment & Compliance**  
-   - Delivered solutions for Salesforce platform security and enrichment at Nokia, ensuring compliance across enterprise systems.  
+1. **Oracle ERP & HCM Cloud Integrations Implementation**
+       - Lead ERP & HCM Cloud Integrations Project
+       - Designed Multile Integrations with SAP , Service Now , BOX , Fedex etc.
+       - Designed and Implemented the Data Extraction Startegy with a Multi Cloud Approach
+       - Designed Integrations between PRM and Learning Portals
+       - Designed Integrations between Salesforce CRM/CPQ and oracle OM
+3. **Salesforce Platform Enrichment** 
+   - Managed the Project to Migrate/retrofit Existing workflows and Processbuilders to Flows Across CRM/PRM/CPQ Modules
+   - Mangaged the project where All Error Tests Classes are Fixed and Increased the test Coversge to 80% to Adher to the Coding Standards
+  
+4. **Salesforce Security & Compliance**  
+   - Managed and Played a Delivery lead Role to Ensure the Security and Compliance requirements are Delived On Time Which Include
+   -   1. Salesforce Event Logs Data Extraction using Azure ADF * Azure SQL to be Consumed by the Azure Sentinel- SIEM Solution
+       2. Salesforce PII/PIL Data Masking for Multiple Objects to Adhere the Compliance and GDPR requirements
+       3. Driven the TPSA and DPA Discussion with the Third Party Data Masking Vendor
 
-2. **ERP Cloud Integrations**  
-   - Developed multi-cloud extraction strategies from Oracle ERP Cloud to Azure for financial data warehouses at ValueLabs.  
-
-3. **AI Invoice Processing**  
+5. **AI Invoice Processing**  
    - Integrated Oracle AP with a custom AI-driven invoice processing solution to optimize accounts payable workflows.  
 
----
+6. **ERP Cloud Integrations**  
+   - Developed multi-cloud extraction strategies from Oracle ERP Cloud to Azure for financial data warehouses at ValueLabs.
 
 ## 🏢 Companies I've Worked With:  
-- **Nokia Solutions and Networks Pvt Ltd**: **IT Technical Architect** - Oracle ERP Cloud and Salesforce CRM/CPQ/PRM  & Integrations
+- **Nokia Solutions and Networks Pvt Ltd**: **IT Technical Architect & PM** - Oracle ERP Cloud and Salesforce CRM/CPQ/PRM  & Integrations
 - **ValueLabs LLP**: **Associate Architect & Project Manager** -
             > Fusion Financials Support & Multi Cloud(OCI + Azure) Solution Implementaion for datawherehouse Requiements & Analytics
             > Oracle Financials Integrations with 3rd Party AI Invoice processing System Using OpenAPI
@@ -74,7 +85,7 @@ With over **11 years of experience**, I specialize in implementing and integrati
       - VEMS - Veritas Entitlement Management System
 
 ## 🛠️ Skills:  
-- **Oracle Cloud ERP Modules**: AP, GL, AR, FA, CM  
+- **Oracle Cloud ERP Modules**: AP, GL, AR, FA, CM , PO ,INV, OM
 - **CRM Expertise**: Salesforce CPQ, Sales Cloud, PRM (Partner Relationship Management)  
 - **Technical Tools**: OIC, Azure ADF, VBCS, ORDS, Integration Insights, OCI Object Storage  
 - **Programming**: PL/SQL,SQL, SOQL, HTML, Bash, JavaScript  
