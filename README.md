@@ -24,8 +24,7 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - My experience extends to **presales roles**, **team leadership**, and **delivery  management**.
 - Specialize in designing integration solutions using OIC, ensuring seamless operations for leading companies where I have integrated various enterprise applications such 
   as Box, ServiceNow, Workday, SAP, and SuccessFactors
-- Skilled in VBCS, Integration Insights, IDCS, ORDS, App Composer, Page Composer, Sandbox, OCI Object Storage, Rapid Sheets, FSM, and PaaS adapters, as well as working 
-  with Azure ADF
+- Skilled in **VBCS, Integration Insights, IDCS, ORDS, App Composer, Page Composer, Sandbox, OCI Object Storage,BICC, Rapid Sheets, FSM, and PaaS adapters, as well as working with Azure ADF**
 - Additionally, I have functional proficiency in **P2P, O2C, A2R on the ERP side and L2C on the CRM side**.
 - Passionate about simplifying complexities, bringing together data, processes, and people to optimize organizational flow. As an avid reader , blogger and Trainer , I 
   enjoy sharing insights and continuously learning
