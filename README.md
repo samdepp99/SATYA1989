@@ -39,7 +39,16 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - Oracle Integration cloud
 - Azure ADF
 - Workato
-- 
+## Other Tools:
+- Jira - Creating Epics,Issues, Bugs , Dashboards etc ..
+- Service Now - For Assets Tracking , Tickets
+- Weblogic Server - For Deploying Oracle specific Custom  Applications like  ADF Apps Etc ..
+- Confluence & BITBUCKET - For Documentation & Code Repo
+- GITLAB
+- IMPARTNER - For Partner Mnagement
+- Azure ADF
+- OCI Object Storage
+- BICC - Business Intelegence Cloud Connector
 ## 📜 Certifications:  
 - 	Oracle Cloud Platform Application Integration 2021 Certified Specialist
 - 	Oracle Application Integration CloudPlatform 2019 Solution Engineer Specialist
@@ -47,7 +56,7 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - 	Oracle Cloud Infrastructure Foundations2020 Associate
 - 	Oracle Cloud Infrastructure 2019 Certified Architect Associate
 -   Oracle Autonomous Database Cloud 2019 Specialist
--   Product Management Expert Development Program
+-   Product Management Expert Development Program -2024
 ---
 
 ## 🚀 Key Projects:  
