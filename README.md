@@ -49,6 +49,7 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - Azure ADF
 - OCI Object Storage
 - BICC - Business Intelegence Cloud Connector
+- WIX -Low/No Code Website Design and Development
 ## 📜 Certifications:  
 - 	Oracle Cloud Platform Application Integration 2021 Certified Specialist
 - 	Oracle Application Integration CloudPlatform 2019 Solution Engineer Specialist
