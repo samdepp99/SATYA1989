@@ -24,6 +24,18 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - My experience extends to **presales roles**, **team leadership**, and **delivery  management**.
 - Specialize in designing integration solutions using OIC, ensuring seamless operations for leading companies where I have integrated various enterprise applications such 
   as Box, ServiceNow, Workday, SAP, and SuccessFactors
+- Designed scalable integration architectures leveraging Oracle Integration Cloud (OIC) to connect cloud and on-premises systems.
+- Defined integration strategies, patterns, and best practices for enterprise-wide solutions.
+- Architected and implemented integrations with Oracle Cloud Infrastructure (OCI) services, including Object Storage, Autonomous Transaction Processing (ATP), and 
+  Autonomous Data Warehouse (ADW).
+- Developed and optimized integration flows, including REST, SOAP, and file-based integrations, to streamline business processes.
+- Configured and managed OIC adapters, such as ERP Cloud, HCM Cloud, Database, FTP, Object Storage, and REST, for seamless connectivity.
+- Implemented data extraction and loading processes using OIC for Object Storage, ATP, and ADW to support business intelligence and reporting needs.
+- Led technical design workshops and collaborated with stakeholders to define integration requirements.
+- Conducted code reviews, performance tuning, and troubleshooting to ensure high-quality deliverables.
+- Provided technical leadership and mentoring to development teams, fostering best practices in integration design and implementation.
+- Oversaw testing, deployment, and maintenance of integrations, ensuring system reliability and scalability.
+- Advised on emerging integration technologies and Oracle Cloud services to support evolving business needs.
 - Skilled in **VBCS, Integration Insights, IDCS, ORDS, App Composer, Page Composer, Sandbox, OCI Object Storage,BICC, Rapid Sheets, FSM, and PaaS adapters, as well as working with Azure ADF**
 - Additionally, I have functional proficiency in **P2P, O2C, A2R on the ERP side and L2C on the CRM side**.
 - Passionate about simplifying complexities, bringing together data, processes, and people to optimize organizational flow. As an avid reader , blogger and Trainer , I 
