@@ -12,9 +12,9 @@ Config files for my GitHub profile.
 
 # 👋 Hi, I'm Sandeep Satyavolu  
 
-🏗️ **Enterprise Technical Architect | SaaS-PaaS Cloud Expert | Oracle Fusion ERP | Salesforce CRM/CPQ/PRM | OIC iPaaS | DevOps Enthusiast | OCI | Azure ADF | Blogger | Trainer | Pre-Sales | P2P | A2R | L2C | Team Leadership | Delivery Management**  
+🏗️ **Enterprise Technical Architect | SaaS-PaaS Cloud Expert | Oracle Fusion ERP | Salesforce CRM/CPQ/PRM | OIC iPaaS | AI Enthusiast | OCI | Azure ADF | Blogger | Trainer | RPA | P2P | A2R | L2C | Team Leadership | Delivery Management**  
 
-With over **11 years of experience**, I specialize in implementing and integrating enterprise-grade solutions in **Oracle Fusion ERP**, **SCM Cloud**, **HCM Cloud**, and **Salesforce CRM/CPQ/PRM**. My expertise includes designing seamless integration solutions using **Oracle Integration Cloud (OIC)**, **Azure ADF**, and **Workato**, enabling efficient workflows and business transformations.  
+With over **12 years of experience**, I specialize in implementing and integrating enterprise-grade solutions in **Oracle Fusion ERP**, **SCM Cloud**, **HCM Cloud**, and **Salesforce CRM/CPQ/PRM**. My expertise includes designing seamless integration solutions using **Oracle Integration Cloud (OIC)**, **Azure ADF**, and **PaaS** and **iaaS** Solutions using **OCI**, enabling efficient workflows and business transformations.  
 
 ## 💻 What I Do:  
 - Architect **ERP/CRM solutions** across Oracle and Salesforce ecosystems.  
@@ -36,7 +36,7 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - Provided technical leadership and mentoring to development teams, fostering best practices in integration design and implementation.
 - Oversaw testing, deployment, and maintenance of integrations, ensuring system reliability and scalability.
 - Advised on emerging integration technologies and Oracle Cloud services to support evolving business needs.
-- Skilled in **VBCS, Integration Insights, IDCS, ORDS, App Composer, Page Composer, Sandbox, OCI Object Storage,BICC, Rapid Sheets, FSM, and PaaS adapters, as well as working with Azure ADF**
+- Skilled in **VBCS, Integration Insights, IDCS, ORDS, App Composer, Page Composer, Sandbox, Redwood, OCI Object Storage,BICC, Rapid Sheets, FSM, and PaaS adapters, as well as working with Azure ADF**
 - Additionally, I have functional proficiency in **P2P, O2C, A2R on the ERP side and L2C on the CRM side**.
 - Passionate about simplifying complexities, bringing together data, processes, and people to optimize organizational flow. As an avid reader , blogger and Trainer , I 
   enjoy sharing insights and continuously learning
@@ -48,9 +48,9 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - HTML, SQL, PL/SQL, XSL, SOOQL, Bash Shell Scripting, js, Apex
 
 ## Integration Tools:
-- Oracle Integration cloud
-- Azure ADF
-- Workato
+- Oracle Integration cloud -Expert
+- Azure ADF - Begineer
+- Workato - Begineer
 ## Other Tools:
 - Jira - Creating Epics,Issues, Bugs , Dashboards etc ..
 - Service Now - For Assets Tracking , Tickets
@@ -58,10 +58,16 @@ With over **11 years of experience**, I specialize in implementing and integrati
 - Confluence & BITBUCKET - For Documentation & Code Repo
 - GITLAB
 - IMPARTNER - For Partner Mnagement
-- Azure ADF
+- Azure ADF - Data Migrations
 - OCI Object Storage
 - BICC - Business Intelegence Cloud Connector
 - WIX -Low/No Code Website Design and Development
+- Prompt Engineering
+- Tesseract OCR
+- LangChain
+- Ollama
+- FastAPI
+- Streamlit
 ## 📜 Certifications:  
 - 	Oracle Cloud Platform Application Integration 2021 Certified Specialist
 - 	Oracle Application Integration CloudPlatform 2019 Solution Engineer Specialist
@@ -79,6 +85,16 @@ With over **11 years of experience**, I specialize in implementing and integrati
        - Designed and Implemented the Data Extraction Startegy with a Multi Cloud Approach
        - Designed Integrations between PRM and Learning Portals
        - Designed Integrations between Salesforce CRM/CPQ and oracle OM
+2.**🧠 CLM Clause Extraction AI**:
+       🔹Developed an AI-driven tool to ingest contract PDFs, extract legal clauses using LangChain + Ollama LLMs, and deliver structured insights with FastAPI/Streamlit
+         and MCP-enhanced relevance filtering.
+      - Implemented an end-to-end pipeline using Python, Tesseract OCR, LangChain, and Ollama (Mistral) for offline LLM inference.
+      - Built a FastAPI backend to expose contract upload and clause extraction as APIs.
+      - Designed an interactive Streamlit UI for PDF upload, clause preview, and JSON output download.
+      - Enabled dynamic clause selection through user-defined prompts for customizable extraction.
+      - Added clause highlighting and output logging to enhance visibility and debugging.
+      - Structured application for potential enterprise use, with components that can scale into a cloud-native solution.
+
 3. **Salesforce Platform Enrichment** 
    - Managing the Project to Migrate/retrofit Existing workflows and Processbuilders to Flows Across CRM/PRM/CPQ Modules
    - Mangaging the project where All Error Tests Classes are Fixed and Increased the test Coversge to 80% to Adher to the Coding Standards
@@ -118,10 +134,10 @@ With over **11 years of experience**, I specialize in implementing and integrati
       - VEMS - Veritas Entitlement Management System
 
 ## 🛠️ Skills:  
-- **Oracle Cloud ERP Modules**: AP, GL, AR, FA, CM , PO ,INV, OM
-- **CRM Expertise**: Salesforce CPQ, Sales Cloud, PRM (Partner Relationship Management)  
+- **Oracle Cloud ERP Modules**: AP, GL, AR, FA, CM , PO ,INV, OM - Techno Functional
+- **CRM Expertise**: Salesforce CPQ, Sales Cloud, PRM (Partner Relationship Management)  - Functional
 - **Technical Tools**: OIC, Azure ADF, VBCS, ORDS, Integration Insights, OCI Object Storage  
-- **Programming**: PL/SQL,SQL, SOQL, HTML, Bash, JavaScript  
+- **Programming**: PL/SQL,SQL, SOQL, HTML, Bash, JavaScript , Python  
 
 ---
 
