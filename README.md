@@ -85,10 +85,11 @@ With over **12 years of experience**, I specialize in implementing and integrati
        - Designed and Implemented the Data Extraction Startegy with a Multi Cloud Approach(OCI + Azure)
        - Designed Integrations between PRM and Learning Portals
        - Designed Integrations between Salesforce CRM/CPQ and oracle OM
-2. **Oracle Procurement Cloud Supplier On Boarding VBCSA Extension**
+2. **Oracle Procurement Cloud Supplier On Boarding VBCS & PCS Extension**
        - Designed and Led the Supplier Onboarding VBCS Extension to Enable the Supplier Onboarding Seamless with Approvals and #rd party Integrations for Secury and Data Privacy verifications.
 3. **oracle fusion Financials MonthEnd process Status Auomation**
-       - Designed the E2E Solution to Eliminate the Tedious Monthend process Validations using RPA Solutions 
+       - Designed the E2E Solution to Eliminate the Tedious Month end process Validations using RPA Solutions.
+   
 4.**🧠 CLM Clause Extraction AI**:
        🔹Developed an AI-driven tool to ingest contract PDFs, extract legal clauses using LangChain + Ollama LLMs, and deliver structured insights with FastAPI/Streamlit
          and MCP-enhanced relevance filtering.
